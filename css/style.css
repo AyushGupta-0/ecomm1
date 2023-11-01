@@ -1075,4 +1075,11 @@ a:focus {
   -webkit-transform: rotate(-45deg) translate(7px, -10px);
           transform: rotate(-45deg) translate(7px, -10px);
 }
+.technical_icon1{
+  color:#2d63a9 ;
+}
+.technical_icon2{
+  color: #5ddce1;
+
+}
 /*# sourceMappingURL=style.css.map */
